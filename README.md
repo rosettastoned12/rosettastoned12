@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rosettastoned12
-- 👀 I’m interested in AI/DS/ML, Computational Neuroscience and Competitive Programming
+- 👀 I’m interested in AI/DS, ML, Computational Neuroscience and Competitive Programming
 - 🌱 I’m currently learning Web Development and Data Science.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!-- - 📫 How to reach me  -->
